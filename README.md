@@ -1,6 +1,7 @@
 ## Random Gifs
 
 <p>Visit live <a href='https://manish03singh.github.io/RandomGIF/' target='_blank'>link</a></p>
+<img src="/public/website.png" alt="image"/>
 
 <p>Welcome to the Random GIF Generator React App! </p>
 
